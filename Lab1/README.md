@@ -3,6 +3,7 @@
 ### Requirements
 - Adobe Illustrator (Reference design)
 - Fontforge Tool (font design)
+- Ubuntu Studio 20.04 LTS (multimedia platform)
 
 ### Steps
 - Choose appropriate references for the characters
