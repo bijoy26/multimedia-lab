@@ -5,8 +5,8 @@
 - Fontforge Tool (font design)
 
 ### Steps
-- Choose appropriate references for the characters
-- Make a draft design using Adobe Illustrator and export it in _SVG format_
+- Draw two characters অ and ক on white paper, keeping in mind of the slant, font style and typeface
+- Make a draft reference design using Adobe Illustrator and export it in _SVG format_
 - Configure **FontForge** to force encode **ISO 10464-1 (unicode,BMP)**
 - Import both of the SVG images 
 - Adjust and tweak the design as needed
