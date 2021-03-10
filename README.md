@@ -9,4 +9,4 @@
  
 ### 🔹 Lab Submissions
 - [Lab-1: Typeface Design](/Lab1)
-
+- [Lab-1: Custom Bengali Font Style](/Lab2)
